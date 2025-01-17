@@ -10,17 +10,18 @@ La base de datos está estructurada para manejar las operaciones y datos esencia
 
 ### 1. Diagrama Lógico
 El diagrama lógico muestra las relaciones abstractas entre las distintas entidades de la base de datos. Este diagrama no incluye detalles técnicos como claves primarias, pero se enfoca en los procesos comerciales y cómo interactúan entre sí.
-![Texto alternativo](../PUSH-UP-COORDINADORA/img/DIAGRAMALOG.drawio.png)
+![Texto alternativo](./img/DIAGRAMALOG.drawio.png)
 
 
 ### 2. Diagrama Relacional
 El diagrama relacional establece las relaciones entre las tablas físicas, mostrando cómo las entidades están conectadas a través de claves foráneas. En este diagrama se incluyen las claves primarias y las relaciones entre las tablas.
-![Texto alternativo](../PUSH-UP-COORDINADORA/img/DIAGRAMARELACI.drawio.png)
+![Texto alternativo](./img/DIAGRAMARELACI.drawio.png)
 
 
 ### 3. Diagrama Físico
 El diagrama físico muestra la estructura de la base de datos a nivel de implementación, con detalles sobre las tablas, columnas y tipos de datos. Este diagrama está diseñado para ser implementado en un sistema de gestión de bases de datos (DBMS).
-![Texto alternativo](../PUSH-UP-COORDINADORA/img/DIAGRAMAFIS.drawio.png)
+![Texto alternativo](./img/DIAGRAMAFIS.drawio.png)
+
 
 ## Objetivos del Proyecto
 
